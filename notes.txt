@@ -1,0 +1,4 @@
+useEffect working 
+api integration
+use of swr 
+for build - npm run build, npm start
